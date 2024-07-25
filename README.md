@@ -4,7 +4,6 @@
 <li><i>Santiago Montilla. C.I 28.310.210</i></li>
 <li><i>Miguel Omaña. C.I 30.111.323</i></li>
 </ul>
-<br>
 <h2>Introducción</h2>
 <p>Esta actividad está orientada para aprender lo básico de los repositorios de control de versiones existentes actualmente, teniendo en cuenta que son herramientas fundamentales en la vida profesional de los ingenieros.
 <br>
@@ -13,11 +12,9 @@
 <p>El proyecto consta de los <b><i>curriculum vitae</i></b> de los integrantes del grupo y el archivo README.MD donde se documenta el proyecto.
 Esta actividad es importante debido a que cada ingeniero debe saber utilizar herramientas como Git y Github para la configuración y el control de versiones de un proyecto.
 </p>
-<br>
 <h2>Instrucciones</h2>
-Para visualizar el proyecto se debe:
 <ol>
-<li>Seleecionar el control de versiones que más le interese.</li>
+<li>Seleccionar el control de versiones que más le interese.</li>
 <li>Crear un repositorio en el mismo.</li>
 <li>Subir un contenido al repositorio y hacer un par de commits.</li>
 <li>Documentar el proyecto correctamente.</li>
