@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum José Montilla</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .contact-info, .academic-info, .courses, .references {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Currículum</h1>
+    <h2>José David Montilla Suárez</h2>
+
+ <section class="InformacionPersonal">
+
+    <div class="InfoContacto">
+        <h3>Datos Personales</h3>
+        <p><strong>Fecha de Nacimiento:</strong> 06 de Diciembre de 1999</p>
+        <p><strong>Lugar de Nacimiento:</strong> VALERA - ESTADO TRUJILLO</p>
+        <p><strong>Cédula de Identidad:</strong> V 27.415.000</p>
+        <p><strong>Sexo:</strong> Masculino</p>
+        <p><strong>Edad:</strong> 24 años</p>
+        <p><strong>Estado Civil:</strong> Soltero</p>
+        <p><strong>Nacionalidad:</strong> Venezolana</p>
+        <p><strong>Teléfono:</strong> 0416-5025959</p>
+        <p><strong>Dirección:</strong> URB. LAS LOMAS- APTO 06-A9 VALERA ESTADO TRUJILLO.</p>
+    </div>
+
+    <div class="InfoAcademica">
+        <h3>Nivel Académico</h3>
+        <p><strong>Primaria:</strong> ASOCIACIÓN CIVIL UNIDAD EDUCATIVA “HERMANA MARIA SORROSAL” VALERA ESTADO TRUJILLO - VENEZUELA</p>
+        <p><strong>Secundaria:</strong> ESCUELA TÉCNICA INDUSTRIAL SALESIANA “SANTO TOMÁS DE AQUINO”  VALERA ESTADO TRUJILLO - VENEZUELA</p>
+        <p><strong>Título Obtenido:</strong> TECNICO MEDIO INDUSTRIAL MENCIÓN: MECANICA DE MANTENIMIENTO</p>
+        <p><strong>Actualmente cursando:</strong> 9no TRIMESTRE DE LA CARRERA INGENIERIA INDUSTRIAL UNIVERSIDAD VALLE DEL MOMBOY VALERA ESTADO TRUJILLO - VENEZUELA</p>
+    </div>
+
+ </section>
+
+ <section class="Formacion"> 
+
+    <div class="Experiencia laboral">
+        <h3>Experiencia laboral</h3>
+        <p><strong>Establecimiento comercial:</strong> PASANTIAS EN LA EMPRESA: SUSEIM, C.A</p><strong>Tiempo:</strong> 04/04/17 HASTA EL 23/06/17</p>
+        <p><strong>Establecimiento comercial:</strong> ALMACENES LA OFERTA, C.A</p><strong>Tiempo:</strong> POR TEMPORADAS VACACIONALES</p>
+        <p><strong>Establecimiento comercial:</strong> TINDA FLORECITAS, C.A</p><strong>Tiempo:</strong> POR TEMPORADAS VACACIONALES</p>
+        <p><strong>Establecimiento comercial:</strong> PANADERIA Y PASTELERIA "LA ESTRELLA DE VALERA"</p><strong>Tiempo:</strong> DEL 30/01/2019 HASTA EL 30/06/2019</p>
+        <p><strong>Establecimiento comercial:</strong> PANADERIA Y PASTELERIA "EL NUEVO MILENIUM"</p><strong>Tiempo:</strong> DEL 16/08/2019 HASTA EL 06/06/2020</p>
+        <p><strong>Establecimiento comercial:</strong> PANADERIA PANFLOR, C.A</p><strong>Tiempo:</strong> ACTUALMENTE TRABAJANDO EN ESTA PANADERIA, PERO CON DESEOS DE CONSEGUIR UN NUEVO TRABAJO</p>
+    </div>
+
+    <div class="Habilidades">
+        <h3>Habilidades</h3>
+        <p>Eficiente</p>
+        <p>Ordenado</p>
+        <p>Atención al cliente</p>
+        <p>Facilidad de expresión</p>
+        <p>Responsable</p>
+    </div>
+
+    <div class="Referencias">
+        <h3>Referencias Personales</h3>
+        <p><strong>WILSON JOSÉ GONZÁLEZ:</strong> Teléfono: 0416-7466967</p>
+        <p><strong>LISETH C. PEREZ:</strong> Teléfono: 0424-7360725</p>
+    </div>
+
+  </section>
+
+</body>
+</html>
