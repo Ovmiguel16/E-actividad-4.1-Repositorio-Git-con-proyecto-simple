@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum Miguel Omaña</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .contact-info, .academic-info, .courses, .references {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Currículum</h1>
+    <h2>Miguel Ángel Omaña Villamizar</h2>
+
+ <section class="InformacionPersonal">
+
+    <div class="InfoContacto">
+        <h3>Datos Personales</h3>
+        <p><strong>Fecha de Nacimiento:</strong> 16 de Diciembre de 2003</p>
+        <p><strong>Lugar de Nacimiento:</strong> La Grita - Estado Táchira</p>
+        <p><strong>Cédula de Identidad:</strong> V 30.111.323</p>
+        <p><strong>Sexo:</strong> Masculino</p>
+        <p><strong>Edad:</strong> 20 años</p>
+        <p><strong>Estado Civil:</strong> Soltero</p>
+        <p><strong>Nacionalidad:</strong> Venezolana</p>
+        <p><strong>Teléfono:</strong> 0414-7311663</p>
+        <p><strong>Dirección:</strong> Llano de los Zambranos Parte Baja. Urb. Bella Vista. 2-08. La Grita - Estado Táchira.</p>
+    </div>
+
+    <div class="InfoAcademica">
+        <h3>Nivel Académico</h3>
+        <p><strong>Primaria:</strong> “U.E” Colegio Sagrado Corazón de Jesús</p>
+        <p><strong>Secundaria:</strong> “U.E” Colegio Sagrado Corazón de Jesús</p>
+        <p><strong>Título Obtenido:</strong> Bachiller.</p>
+        <p><strong>Actualmente cursando:</strong> 9no TRIMESTRE DE LA CARRERA INGENIERIA DE COMPUTACIÓN UNIVERSIDAD VALLE DEL MOMBOY VALERA ESTADO TRUJILLO - VENEZUELA. 
+            <br> 9no TRIMESTRE DE LA CARRERA EDUCACIÓN INTEGRAL UNIVERSIDAD NACIONAL EXPERIMENTAL SIMÓN RODRÍGUEZ LA GRITA ESTADO TÁCHIRA - VENEZUELA</p>
+    </div>
+
+ </section>
+
+ <section class="Formacion"> 
+
+    <div class="Experiencia laboral">
+        <h3>Experiencia laboral</h3>
+        <p><strong>Lugar:</strong> “U.E” Colegio Sagrado Corazón de Jesús.
+        <p><strong>Cargo desempeñado:</strong> Docente de aula.
+        <p><strong>Tiempo:</strong> 1 año.
+    </div>
+
+    <div class="Herramientas">
+        <h3>Herramientas y habilidades</h3>
+        <p>Excel básico (Hoja de cálculo)</p>
+        <p>Word (Procesador de texto)</p>
+        <p>Power Point (Diseño de diapositivas)</p>
+        <p>Canva (Diseño gráfico)</p>
+        <p>Blender (Modelado y animación)</p>
+        <p>Conocimientos en el área de programación, estadística y matemática</p>
+    </div>
+
+  </section>
+
+</body>
+</html>
