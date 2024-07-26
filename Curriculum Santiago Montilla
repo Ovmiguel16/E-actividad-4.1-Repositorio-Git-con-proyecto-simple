@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum Santiago Montilla</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .contact-info, .academic-info, .courses, .references {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Currículum</h1>
+    <h2>Santiago Simón Andres Montilla Casanova</h2>
+
+ <section class="InformacionPersonal">
+
+    <div class="InfoContacto">
+        <h3>Datos Personales</h3>
+        <p><strong>Fecha de Nacimiento:</strong> 02 de Septiembre de 2002</p>
+        <p><strong>Lugar de Nacimiento:</strong> San Juan de Colon - Estado Táchira</p>
+        <p><strong>Cédula de Identidad:</strong> V 28.310.210</p>
+        <p><strong>Sexo:</strong> Masculino</p>
+        <p><strong>Edad:</strong> 21 años</p>
+        <p><strong>Estado Civil:</strong> Soltero</p>
+        <p><strong>Nacionalidad:</strong> Venezolana</p>
+        <p><strong>Teléfono:</strong> 0424-1242817</p>
+        <p><strong>Dirección:</strong> Avenida II, C4-40, Urbanización Los chinatos.</p>
+    </div>
+
+    <div class="InfoAcademica">
+        <h3>Nivel Académico</h3>
+        <p><strong>Primaria:</strong> “U.E” Escuela Bolívar Niño 2008-2014</p>
+        <p><strong>Secundaria:</strong> “U.E” Colegio 12 de Febrero 2017-2020</p>
+        <p><strong>Título Obtenido:</strong> Técnico Medio en Registro y Estadística de la Salud.</p>
+        <p><strong>Actualmente cursando:</strong> 9no TRIMESTRE DE LA CARRERA INGENIERIA INDUSTRIAL UNIVERSIDAD VALLE DEL MOMBOY VALERA ESTADO TRUJILLO - VENEZUELA</p>
+    </div>
+
+ </section>
+
+ <section class="Formacion"> 
+
+    <div class="Experiencia laboral">
+        <h3>Experiencia laboral</h3>
+        <p><strong>Establecimiento comercial:</strong> Departamento de Control y Registro Estadístico: Hospital Dr. Ernesto Segundo Paolini.
+        <p><strong>Establecimiento comercial:</strong> Área de Preparación de Piezas. Taller de latonería y pinturas.
+        <p><strong>Establecimiento comercial:</strong> Construcción.
+    </div>
+
+    <div class="Herramientas">
+        <h3>Herramientas</h3>
+        <p>Excel básico</p>
+        <p>Word</p>
+        <p>Power Point</p>
+        <p>Canva</p>
+        <p>AutoCad</p>
+    </div>
+
+  </section>
+
+</body>
+</html>
